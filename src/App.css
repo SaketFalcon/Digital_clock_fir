@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+p , button{
+  font-size: 200px;
+  color: rgb(17, 17, 122);
+  background-color: rgb(177, 228, 228);
+  margin: 5px;
+}
